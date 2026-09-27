@@ -1,16 +1,17 @@
-## Hi there 👋
+# Miguel Ribeiro
 
-<!--
-**MiguelRibeiro-Cloud/MiguelRibeiro-Cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation-focused builder working with Python, AI, web applications, and cloud deployment.
 
-Here are some ideas to get you started:
+I turn operational problems into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with:
+- Python
+- Django / FastAPI
+- React
+- PostgreSQL
+- Docker
+- Azure
+- Railway
+- Google GenAI
+
+[Portfolio](https://miguel-portfolio-production.up.railway.app/) · [LinkedIn](YOUR_LINKEDIN_URL)
