@@ -14,4 +14,4 @@ Currently working with:
 - Railway
 - Google GenAI
 
-[Portfolio](https://miguel-portfolio-production.up.railway.app/) · [LinkedIn](YOUR_LINKEDIN_URL)
+[Portfolio](https://miguel-portfolio-production.up.railway.app/) · [LinkedIn](https://www.linkedin.com/in/miguel-js-ribeiro/)
